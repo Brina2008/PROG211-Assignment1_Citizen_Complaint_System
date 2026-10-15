@@ -10,11 +10,12 @@ A Python program built with Object-Oriented Programming (OOP) that helps citizen
 4. [Class Design](#class-design)
 5. [OOP Concepts Demonstrated](#oop-concepts-demonstrated)
 6. [Digital Public Goods (DPG) Alignment](#digital-public-goods-dpg-alignment)
-7. [How to Run](#how-to-run)
-8. [Example Usage](#example-usage)
-9. [Sample Output](#sample-output)
-10. [Future Improvements](#future-improvements)
-11. [Sabrina Kandeh](#Author)
+7. [Screenshots](#screenshots)
+8. [How to Run](#how-to-run)
+9. [Example Usage](#example-usage)
+10. [Sample Output](#sample-output)
+11. [Future Improvements](#future-improvements)
+12. [Author](#Author)
  
 
 ## Problem Statement
@@ -109,6 +110,22 @@ When a citizen calls `submit_complaint()`, the method creates a `Complaint` usin
 | **Inclusive and accessible** | Messages are in plain language, and the program runs on any computer with Python, with no special hardware, accounts or internet connection needed. |
 | **Privacy-respecting** | Only an anonymous citizen ID, a first name or alias, and a broad area are stored. The system deliberately does **not** store phone numbers, home addresses, national ID numbers or any other sensitive personal data. |
 | **Modular and reusable** | Each class has a single responsibility and can be reused alone. The demonstration code sits under `if __name__ == "__main__":`, so the classes can be imported into other projects. Categories and statuses are defined in one place, so other services (for example permits or health clinics) can adapt them easily. |
+
+## Screenshots
+
+* Citizen Class Page
+
+<img src="./Screenshots/Screenshot 2026-10-15 142354.png" alt="Class citizen" width="650">
+
+* Complaint System Page
+
+<img src="./Screenshots/Screenshot 2026-10-15 142426.png" alt="Complaint System" width="650">
+
+* Terminal Base Page
+<img src="./Screenshots/Screenshot 2026-10-15 142304.png" alt="Terminal Base" width="650">
+
+* Final Display Terminal Base
+<img src="./Screenshots/Screenshot 2026-10-15 142333.png" alt=" Display Terminal Base" width="650">
 
 ## How to Run
 
@@ -235,4 +252,7 @@ Resolved: 1
 - Add more categories, such as Drainage and Public Health
 - Add search and filtering by area or category
 - Support multiple languages, such as Krio, to improve accessibility
+
+ ## Author
+ * Sabrina Kandeh
  
