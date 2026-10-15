@@ -1,14 +1,7 @@
 # Citizen Complaint System
 
 A Python program built with Object-Oriented Programming (OOP) that helps citizens report problems with public services and helps government officials track each complaint until it is resolved.
-
-**Course:** PROG211 Object-Oriented Programming 1
-**Institution:** Limkokwing University of Creative Technology, Sierra Leone
-**Assignment:** Real-World Solutions under DPG Standards (Individual Assignment)
-**Domain:** Government / Public Service
-**Author:** *[Your name and student ID]*
-
----
+ 
 
 ## Table of Contents
 1. [Problem Statement](#problem-statement)
@@ -21,9 +14,8 @@ A Python program built with Object-Oriented Programming (OOP) that helps citizen
 8. [Example Usage](#example-usage)
 9. [Sample Output](#sample-output)
 10. [Future Improvements](#future-improvements)
-11. [License](#license)
-
----
+11. [Sabrina Kandeh](#Author)
+ 
 
 ## Problem Statement
 Citizens often have no simple, transparent way to report public service problems such as uncollected rubbish, damaged roads, water shortages or broken street lights. Officials, in turn, struggle to keep track of which problems are new, which are being worked on and which are finished.
@@ -124,7 +116,7 @@ When a citizen calls `submit_complaint()`, the method creates a `Complaint` usin
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/citizen-complaint-system.git
+git clone https://github.com/<Brina2008>/citizen-complaint-system.git
 
 # 2. Move into the folder
 cd citizen-complaint-system
@@ -243,9 +235,4 @@ Resolved: 1
 - Add more categories, such as Drainage and Public Health
 - Add search and filtering by area or category
 - Support multiple languages, such as Krio, to improve accessibility
-
-## License
-This project is released under the [MIT License](https://opensource.org/licenses/MIT) and is free to use, modify and share.
-
----
-*Developed for PROG211 Object-Oriented Programming 1, Limkokwing University of Creative Technology, Sierra Leone.*
+ 
