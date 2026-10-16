@@ -31,7 +31,7 @@ This program provides a small, reusable system where citizens submit complaints 
 - Input validation rejects invalid categories, invalid statuses, duplicate IDs and empty descriptions.
 - Citizens can be created from a simple line of text, with no keyboard input needed.
 
-## Project Structure
+## Assignment Structure
 ```
 citizen-complaint-system/
 ├── citizen_complaint_system.py   # Source code (all classes + demonstration)
